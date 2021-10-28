@@ -1,0 +1,19 @@
+.sidebar{
+    height:100%;
+    width:100%;
+    margin-left: 0;
+    border :2px solid blueviolet;
+    justify-content: center;
+    background-color: blueviolet;
+
+}
+
+.sidemenu{
+    margin:auto;
+    margin-top: 120px;
+    width: 200px;
+    color:white;
+}
+.list{
+    color:white
+}
